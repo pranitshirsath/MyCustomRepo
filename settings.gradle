@@ -1,0 +1,3 @@
+include ':jitsiSDK'
+include ':app'
+rootProject.name = "MyCustomLibrary"
