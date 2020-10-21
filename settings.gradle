@@ -1,3 +1,4 @@
+include ':androidjitsi'
 include ':jitsiSDK'
 include ':app'
 rootProject.name = "MyCustomLibrary"
